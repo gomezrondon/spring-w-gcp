@@ -24,6 +24,7 @@ ext {
 
 
 dependencies {
+
 	implementation 'org.springframework.cloud:spring-cloud-gcp-starter'
 	implementation 'org.springframework.cloud:spring-cloud-gcp-starter-sql-mysql'
 

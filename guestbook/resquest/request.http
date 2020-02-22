@@ -9,7 +9,7 @@ POST http://localhost:8081/guestbookMessages
 Content-Type: application/json
 
 {
-  "name": "Ray",
+  "name": "javier",
   "message": "Hello"
 }
 
