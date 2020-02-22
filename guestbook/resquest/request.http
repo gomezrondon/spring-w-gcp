@@ -1,0 +1,17 @@
+http://localhost:8081/guestbookMessages
+
+###
+
+# curl -XPOST -H "content-type: application/json"
+#  -d '{"name": "Ray", "message": "Hello"}'
+#  http://localhost:8081/guestbookMessages
+POST http://localhost:8081/guestbookMessages
+Content-Type: application/json
+
+{
+  "name": "Ray",
+  "message": "Hello"
+}
+
+###
+
